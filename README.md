@@ -10,22 +10,22 @@
 
 - 🔭 I’m currently working on **Web Designing**
 
-- 🌱 I’m currently learning **Front-End Development**
+- 🌱 I’m currently learning **Full-Stack Development**
 
-- 👯 I’m looking to collaborate on **Java Script**
+- 👯 I’m looking to collaborate on **PHP & Java Script**
 
-- 👨‍💻 All of my projects are available at [https://wpfarhan.com/](https://wpfarhan.com/)
+- 👨‍💻 All of my projects are available at [https://github.com/wp-farhan/wp-farhan](wp-farhan)
 
-- 💬 Ask me about **WordPress | HTML, CSS, JS, React**
+- 💬 Ask me about **WordPress, HTML, CSS, JS, ReactJS, PHP, MySQL**
 
 - 📫 How to reach me **farhansocial1122@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/malikfa36700190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malikfa36700190" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/malik-farhan-8917b8212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malik-farhan-8917b8212" height="30" width="40" /></a>
+<a href="https://twitter.com/wpfarhandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malikfa36700190" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wpfarhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malik-farhan-8917b8212" height="30" width="40" /></a>
 <a href="https://fb.com/wpfarhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wpfarhan" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_malikfarhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_malikfarhan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/webdesign_experts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_malikfarhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
